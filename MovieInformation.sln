@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieInformation", "MovieInformation\MovieInformation.csproj", "{F4F69571-6AC9-4C02-BDC4-1BA0111D3C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FC8DF1AC-C031-4730-AC82-B6E5CA201C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{4AB74BD1-C4B9-49C2-B47E-B3E278054104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F69571-6AC9-4C02-BDC4-1BA0111D3C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F69571-6AC9-4C02-BDC4-1BA0111D3C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F69571-6AC9-4C02-BDC4-1BA0111D3C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F69571-6AC9-4C02-BDC4-1BA0111D3C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8DF1AC-C031-4730-AC82-B6E5CA201C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8DF1AC-C031-4730-AC82-B6E5CA201C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8DF1AC-C031-4730-AC82-B6E5CA201C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8DF1AC-C031-4730-AC82-B6E5CA201C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB74BD1-C4B9-49C2-B47E-B3E278054104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB74BD1-C4B9-49C2-B47E-B3E278054104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB74BD1-C4B9-49C2-B47E-B3E278054104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB74BD1-C4B9-49C2-B47E-B3E278054104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

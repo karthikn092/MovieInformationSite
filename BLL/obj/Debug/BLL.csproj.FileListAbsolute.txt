@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\BLL.dll.config
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\Sample Delta X\Project\MovieInformation\BLL\obj\Debug\BLL.pdb
